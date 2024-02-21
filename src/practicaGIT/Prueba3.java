@@ -11,4 +11,7 @@ public class Prueba3 {
 	public int sumar() {
 		return a+b;
 	}
+	public int multiplicar() {
+		return a*b;
+	}
 }
