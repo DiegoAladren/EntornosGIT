@@ -11,4 +11,7 @@ public class Prueba3 {
 	public int resta() {
 		return a-b;
 	}
+	public int division() {
+		return a/b;
+	}
 }
